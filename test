@@ -1,0 +1,5 @@
+public class test {
+
+	public static void main(String[] args) {
+  System.out.println("To get the number of Employees of given gender Enter 2 ");
+		System.out.println("To get and display oldest Employee Enter 3 ");}}
