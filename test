@@ -4,5 +4,8 @@ public class test {
   System.out.println("To get the number of Employees of given gender Enter 2 ");
   System.out.println("To get and display all Employees of a given gender Enter 4 ");
 		System.out.println("To view all Male Employees Enter 5 ");
+		System.out.println("To get and display all Employees of a given gender Enter 4 ");
+		System.out.println("To view all Male Employees Enter 5 ");
+		System.out.println("To Exit Enter 0 ");
 		System.out.println("To Exit Enter 0 ");
 		System.out.println("To get and display oldest Employee Enter 3 ");}}
